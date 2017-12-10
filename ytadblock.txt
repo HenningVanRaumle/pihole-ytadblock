@@ -74,3 +74,6 @@ advertisment
 0.0.0.0 r19---sn-4g57knkz.googlevideo.com
 0.0.0.0 r20---sn-4g57knde.googlevideo.com
 0.0.0.0 r20---sn-5hne6n76.googlevideo.com
+0.0.0.0 r1---sn-uxaxjva0hc0n-nm4l.googlevideo.com
+0.0.0.0 r2---sn-uxaxjva0hc0n-nm4l.googlevideo.com
+0.0.0.0 r5---sn-uxaxjva0hc0n-nm4l.googlevideo.com
